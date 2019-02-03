@@ -1,0 +1,59 @@
+{
+  " nom " : " bot " ,
+  " version " : " 1.0.0 " ,
+  " lockfileVersion " : 1 ,
+  " requiert " : vrai ,
+  " dépendances " : {
+    " async-limit " : {
+      " version " : " 1.0.0 " ,
+      " résolu " : " https://registry.npmjs.org/async-limiter/-/async-limiter-1.0.0.tgz " ,
+      " intégrité " : " sha512-jp / uFnooOiO + L211eZOoSyzpOITMXx1rBITauYykG3BRYPu8h0UcxsPNB04RR5vo4Tyz3 + ay17tR6JVf9qzYWg == "
+    },
+    " discord.js " : {
+      " version " : " 11.3.2 " ,
+      " résolu " : " https://registry.npmjs.org/discord.js/-/discord.js-11.3.2.tgz " ,
+      " intégrité " : " sha512-Abw9CTMX3Jb47IeRffqx2VNSnXl / OsTdQzhvbw / JnqCyqc2imAocc7pX2HoRmgKd8CgSqsjBFBneusfBbeusz / E16e6A == " ,
+      " nécessite " : {
+        " long " : " 4.0.0 " ,
+        " prism-media " : " 0.0.2 " ,
+        " snekfetch " : " 3.6.4 " ,
+        " tweetnacl " : " 1.0.0 " ,
+        " ws " : " 4.1.0 "
+      }
+    },
+    " long " : {
+      " version " : " 4.0.0 " ,
+      " résolu " : " https://registry.npmjs.org/long/-/long-4.0.0.tgz " ,
+      " intégrité " : " sha512-XsP + KhQif4bjX1kbuSiySJFNAehNxgLb6hPRGJ9QsUr8ajHkuXGdrHmFUTUUXhDwVX2R5bY4JNZEwbUiMhV + MA == "
+    },
+    " prism-media " : {
+      " version " : " 0.0.2 " ,
+      " résolu " : " https://registry.npmjs.org/prism-media/-/prism-media-0.0.2.tgz " ,
+      " intégrité " : " sha512-L6yc8P5NVG35ivzvfI7bcTYzqFV + K8gTfX9YaJbmIFMXTs71RMnAupvTQPTCteGsiOy9QcNLkQyWyWjAafY / hCQ == "
+    },
+    " safe-buffer " : {
+      " version " : " 5.1.1 " ,
+      " résolu " : " https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.1.tgz " ,
+      " intégrité " : " sha512-kKvNJn6M93gAczWVJg7wH + wGYWNrDhdWvpUmHyEsgCtIwwo3bqPtV4tU5puPaUhTOo / kvhVwd8XwwOllGYkg = "
+    },
+    " snekfetch " : {
+      " version " : " 3.6.4 " ,
+      " résolu " : " https://registry.npmjs.org/snekfetch/-/snekfetch-3.6.4.tgz " ,
+      " intégrité " : " sha512-NjxjITIj04Ffqid5lqr7XdgwM7X61c / Dns073Ly170bPQHLm6jkmelye / eglS ++ 1nfTWktpP6Y2bFXjdXQdLQQdw == "
+    },
+    " tweetnacl " : {
+      " version " : " 1.0.0 " ,
+      " résolu " : " https://registry.npmjs.org/tweetnacl/-/tweetnacl-1.0.0.tgz " ,
+      " intégrité " : " sha1-cT2LgY2kIGh0C / aDhtBHnmb8ins = "
+    },
+    " ws " : {
+      " version " : " 4.1.0 " ,
+      " résolu " : " https://registry.npmjs.org/ws/-/ws-4.1.0.tgz " ,
+      " intégrité " : " sha512-ZGh / 8kF9rrRNffkLFV4AzhvooEclrOH0xmgGsIfFgOE / pIz4fMc4Ef + 5HSQqTEug2S9JZIWDR47duDSLfaA == " ,
+      " nécessite " : {
+        " async-limit " : " 1.0.0 " ,
+        " safe-buffer " : " 5.1.1 "
+      }
+    }
+  }
+}

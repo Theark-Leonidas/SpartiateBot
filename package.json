@@ -1,0 +1,14 @@
+{
+  " nom " : " bot " ,
+  " version " : " 1.0.0 " ,
+  " description " : " " ,
+  " main " : " index.js " ,
+  " scripts " : {
+    " test " : " echo \" Erreur: aucun test spécifié \ " && exit 1 "
+  },
+  " author " : " Theark Leonidas " ,
+  " licence " : " ISC " ,
+  " dépendances " : {
+    " discord.js " : " ^ 11.3.2 "
+  }
+}
